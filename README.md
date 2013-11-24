@@ -1,2 +1,2 @@
-Oracle-Veri-Madencili-i-OLAP
+Oracle Data Miner Project-OLAP
 ============================
