@@ -1,2 +1,2 @@
-Oracle Data Miner Project-OLAP
+It will have finished in a short time...
 ============================
